@@ -23,6 +23,7 @@ Explorar fatores que influenciam o preço de imóveis e construir modelos predit
 
 ### 1. Limpeza e preparação dos dados
 
+* Base de dados utilizada: [São Paulo House Prices] (https://www.kaggle.com/datasets/ex0ticone/house-prices-of-sao-paulo-city)
 * Remoção de valores inconsistentes e outliers
 * Tratamento de valores nulos
 * Conversão de variáveis categóricas
