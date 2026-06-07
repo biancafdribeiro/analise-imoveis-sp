@@ -102,7 +102,7 @@ projeto-imoveis/
 │
 ├── codigo/        # notebooks Jupyter
 ├── graficos/           # gráficos exportados
-├── data/             # datasets
+├── data/             # datasets e planilhas importantes
 ├── README.md
 ```
 
