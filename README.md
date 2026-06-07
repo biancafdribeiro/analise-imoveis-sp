@@ -75,7 +75,8 @@ Métricas utilizadas:
 
 ### Comparação de modelos
 
-![modelos](graficos/plot3_comparacao_modelos.jpg)
+![modelos](graficos/plot3A_metricas_log.jpg)
+![modelos](graficos/plot3B_metricas_real.jpg)
 
 ### Preço real vs previsto
 
