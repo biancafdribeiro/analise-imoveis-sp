@@ -100,19 +100,9 @@ Métricas utilizadas:
 ```
 projeto-imoveis/
 │
-├── notebooks/        # notebooks Jupyter
-├── images/           # gráficos exportados
-├── data/             # dataset (não versionado)
+├── codigo/        # notebooks Jupyter
+├── graficos/           # gráficos exportados
+├── data/             # datasets
 ├── README.md
-└── requirements.txt
 ```
 
-
-## 🚀 Possíveis melhorias futuras
-
-* Uso de SHAP para interpretabilidade dos modelos
-* Modelos mais avançados (XGBoost / LightGBM)
-* Deploy com Streamlit ou API
-* Geolocalização dos imóveis
-
----
