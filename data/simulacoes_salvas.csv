@@ -1,0 +1,3 @@
+﻿bairro_simulado,tipo_simulado,area_simulada_m2,quartos_simulados,banheiros_simulados,suites_simuladas,vagas_simuladas,preco_previsto_R$,intervalo_min_R$,intervalo_max_R$,real_bairro,real_tipo,real_area_m2,real_quartos,real_preco_R$,diferenca_pct
+Moema,Apartamento,100,2,2,1,1,804002.0,683401.0,924602.0,-,-,-,-,944999.0,-14.9
+Moema,Apartamento,150,2,2,1,1,962852.0,818424.0,1107280.0,,,,,944999.0,1.9
